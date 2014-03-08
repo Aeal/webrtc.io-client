@@ -1,7 +1,7 @@
 {
   "name": "webrtc.io-client",
-  "version": "0.0.2",
-  "main": "lib/io.js",
+  "version": "0.0.3",
+  "main": "lib/webrtc.io.js",
   "ignore": [
     ".jshintrc",
     "**/*.txt",
